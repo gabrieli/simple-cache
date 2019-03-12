@@ -1,0 +1,28 @@
+{
+  "name": "simple-cache",
+  "version": "0.0.1",
+  "description": "Memory cache management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieli/simple-cache.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "Gabriel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrieli/simple-cache/issues"
+  },
+  "homepage": "https://github.com/gabrieli/simple-cache#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "jest": "^24.4.0"
+  }
+}
